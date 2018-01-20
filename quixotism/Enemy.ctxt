@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ The\ methods\ and\ variables\ for\ the\ Enemy\ classes\r\n\ \r\n\ @author\ (Nick\ Ward)\ \r\n\ @version\ (Version\ 1.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Enemy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ movement()
+comment2.text=\r\n\ Move\ the\ enemy\r\n
+comment3.params=
+comment3.target=void\ touchingPlayerBullet()
+comment3.text=\r\n\ Check\ if\ the\ player\ is\ touching\ a\ player\ bullet\r\n
+comment4.params=
+comment4.target=void\ kill()
+comment4.text=\r\n\ Switch\ worlds\ if\ enemy\ health\ is\ zero\r\n
+comment5.params=
+comment5.target=void\ dropItem()
+comment5.text=\r\n\ Drops\ an\ item\ when\ this\ an\ enemy\ is\ killed\r\n
+numComments=6

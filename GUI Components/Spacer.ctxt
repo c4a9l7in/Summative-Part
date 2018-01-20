@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Spacer
+comment0.text=\n\ Spacer\n\ \n\ @author\ Taylor\ Born\n\ @version\ February\ 2014\ -\ March\ 2014\n
+comment1.params=width\ height
+comment1.target=Spacer(int,\ int)
+comment2.params=width
+comment2.target=void\ setWidth(int)
+comment3.params=height
+comment3.target=void\ setHeight(int)
+comment4.params=
+comment4.target=int\ getGUIWidth()
+comment5.params=
+comment5.target=int\ getGUIHeight()
+numComments=6

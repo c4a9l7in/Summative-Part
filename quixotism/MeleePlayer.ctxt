@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MeleePlayer
+comment0.text=\r\n\ The\ methods\ for\ the\ Melee\ Player.\r\n\ \r\n\ @author\ (Nick\ Ward)\ \r\n\ @version\ (Version\ 1.0)\r\n
+comment1.params=speedIn\ healthIn\ defenseIn\ attackDamageIn\ attackRadiusIn
+comment1.target=MeleePlayer(double,\ int,\ double,\ int,\ int)
+comment1.text=\r\n\ Constructor\ of\ the\ MeleePlayer\ class\r\n\ \r\n\ @param\ double\ speedIn\ -\ The\ speed\ of\ the\ player\r\n\ @param\ double\ healthIn\ -\ The\ health\ of\ the\ player\r\n\ @param\ double\ defenseIn\ -\ The\ defense\ of\ the\ player\r\n\ @param\ double\ attackDamageIn\ -\ The\ damage\ of\ the\ player\r\n\ @param\ double\ attackRadiusIn\ -\ The\ radius\ in\ which\ the\ player\ can\ damage\ an\ enemy\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ MeleePlayer\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ inRange()
+comment3.text=\r\n\ Check\ if\ an\ enemy\ is\ in\ range,\ and\ do\ damage\ accordingly\r\n
+comment4.params=
+comment4.target=void\ getWeapons()
+comment4.text=\r\n\ Gets\ weapons\ for\ the\ Melee\ Player\r\n
+numComments=5

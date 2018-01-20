@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EndScreen
+comment0.text=\r\n\ The\ screen\ that\ is\ displayed\ when\ the\ game\ comes\ to\ an\ end\r\n\ \r\n\ @author\ Sarah\ Kronenfeld\r\n\ @version\ 5\ January\ 2018\r\n
+comment1.params=score\ userName
+comment1.target=EndScreen(int,\ java.lang.String)
+comment1.text=\ \r\n\ Constructor\ for\ objects\ of\ class\ InfoScreen.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ InfoScreen\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=score\ userName
+comment3.target=void\ recordScore(int,\ java.lang.String)
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SwitchButton
+comment0.text=\n\ SwitchButton\n\ \n\ @author\ Taylor\ Born\n\ @version\ November\ 2010\ -\ March\ 2013\n
+comment1.params=s\ size\ startIndex
+comment1.target=SwitchButton(java.util.ArrayList,\ java.awt.Point,\ int)
+comment1.text=\n\ Create\ a\ new\ SwitchButton.\n\ @param\ s\ The\ list\ of\ texts\ that\ the\ SwitchButton\ will\ toggle\ through\ to\ display.\n\ @param\ size\ The\ width\ and\ height\ for\ the\ SwitchButton.\n\ @param\ startIndex\ The\ index\ for\ what\ text\ will\ initially\ be\ displayed.\n
+comment2.params=
+comment2.target=boolean\ wasClicked()
+comment2.text=\n\ The\ action\ listener\ for\ the\ SwitchButton.\n\ @return\ Whether\ the\ SwitchButton\ was\ clicked\ or\ not.\n
+comment3.params=
+comment3.target=int\ getIndex()
+comment3.text=\n\ Get\ the\ index\ for\ what\ text\ is\ being\ displayed\ from\ the\ list.\n\ @return\ The\ index\ for\ what\ text\ is\ being\ displayed\ from\ the\ list.\n
+numComments=4

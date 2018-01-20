@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Environment
+comment0.text=\r\n\ The\ environment\ in\ which\ the\ game\ directly\ runs\r\n\ \r\n\ @author\ Sarah\ Kronenfeld\ +\ Nick\ Ward\r\n\ @version\ 5\ January\ 2018\r\n
+comment1.params=newPlayer\ difficulty\ userName
+comment1.target=Environment(Character,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Environment.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=Character\ newEnemy()
+comment3.text=\r\n\ Creates\ a\ new\ enemy\ for\ the\ player\ to\ fight\r\n
+comment4.params=
+comment4.target=void\ end()
+comment4.text=\r\n\ Passes\ all\ necessary\ info\ to\ the\ end\ screen\r\n
+comment5.params=
+comment5.target=int\ getGameTime()
+comment5.text=\r\n\ Gets\ the\ current\ time\ of\ the\ world\r\n\ \r\n\ @return\ The\ current\ time\ of\ the\ world\r\n
+comment6.params=weight
+comment6.target=boolean\ getWeightedBoolean(int)
+comment7.params=
+comment7.target=Character\ getPlayer()
+numComments=8

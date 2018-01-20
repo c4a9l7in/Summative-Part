@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CharacterSelectScreen
+comment0.text=\r\n\ The\ screen\ in\ which\ players\ can\ select\ the\ type\ of\ character\ they\ want\ to\ play.\r\n\ \r\n\ @author\ Sarah\ Kronenfeld\r\n\ @version\ 28\ December\ 2017\r\n
+comment1.params=
+comment1.target=CharacterSelectScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CharacterSelectScreen.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ CharacterSelectScreen\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=selection
+comment3.target=void\ setSelected(CheckBoxLabel)
+comment3.text=\r\n\ Set\ whichever\ checkbox\ is\ currently\ selected\r\n\ @param\ selection-\ the\ checkbox\ to\ be\ labeled\ as\ selected\r\n
+comment4.params=
+comment4.target=CheckBoxLabel\ getSelected()
+comment4.text=\r\n\ Check\ which\ checkbox\ is\ currently\ selected\r\n\ @return\ the\ currently\ selected\ checkbox\r\n
+comment5.params=
+comment5.target=Character\ getPlayer()
+numComments=6

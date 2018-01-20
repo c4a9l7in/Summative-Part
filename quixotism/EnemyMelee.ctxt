@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EnemyMelee
+comment0.text=\r\n\ The\ methods\ that\ control\ the\ Enemy\ Melee\r\n\ \r\n\ @author\ (Nick\ Ward)\ \r\n\ @version\ (Version\ 1.0)\r\n
+comment1.params=speedIn\ healthIn\ defenseIn\ attackDamageIn
+comment1.target=EnemyMelee(double,\ int,\ double,\ int)
+comment1.text=\r\n\ Constructor\ of\ the\ EnemyMelee\ class\r\n\ \r\n\ @param\ double\ speedIn\ -\ The\ speed\ of\ the\ enemy\r\n\ @param\ double\ healthIn\ -\ The\ health\ of\ the\ enemy\r\n\ @param\ double\ defenseIn\ -\ The\ defense\ of\ the\ enemy\r\n\ @param\ double\ attackDamageIn\ -\ The\ damage\ of\ the\ enemy\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Enemy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

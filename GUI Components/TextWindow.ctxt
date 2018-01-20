@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TextWindow
+comment0.text=\n\ TextWindow\n\ <p>\n\ A\ simple\ text\ editor\ Window,\ containing\ a\ TextBox,\ and\ a\ Menu\ with\ options\ to\ change\ Font\ or\ Color,\ to\ clear,\ or\ print\ to\ console,\ -\ the\ text\ in\ the\ TextBox.\n\ \n\ @author\ Taylor\ Born\n\ @version\ February\ 2013\n
+comment1.params=title\ w\ h\ text
+comment1.target=TextWindow(java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ setUpMenu()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=s
+comment4.target=void\ listenToMenu(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getText()
+comment6.params=s
+comment6.target=void\ setText(java.lang.String)
+numComments=7

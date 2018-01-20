@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RangedPlayer
+comment0.text=\r\n\ The\ methods\ for\ the\ Ranged\ Player.\r\n\ \r\n\ @author\ (Nick\ Ward)\ \r\n\ @version\ (Version\ 1.0)\r\n
+comment1.params=speedIn\ healthIn\ defenseIn\ attackDamageIn
+comment1.target=RangedPlayer(double,\ int,\ double,\ int)
+comment1.text=\r\n\ Constructor\ of\ the\ RangedPlayer\ class\r\n\ \r\n\ @param\ double\ speedIn\ -\ The\ speed\ of\ the\ player\r\n\ @param\ double\ healthIn\ -\ The\ health\ of\ the\ player\r\n\ @param\ double\ defenseIn\ -\ The\ defense\ of\ the\ player\r\n\ @param\ double\ attackDamageIn\ -\ The\ damage\ of\ the\ player\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ RangedPlayer\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=ammoIn
+comment3.target=void\ setAmmo(int)
+comment3.text=\r\n\ Sets\ the\ ammo\ of\ the\ player\r\n\ \r\n\ @param\ int\ ammoIn\ -\ The\ amount\ of\ ammo\ to\ add\ or\ remove\r\n
+comment4.params=
+comment4.target=void\ shoot()
+comment4.text=\r\n\ Controls\ the\ shooting\ of\ the\ Ranged\ Players\r\n
+comment5.params=
+comment5.target=void\ getWeapons()
+comment5.text=\r\n\ Gets\ weapons\ for\ the\ Ranged\ Player\r\n
+numComments=6

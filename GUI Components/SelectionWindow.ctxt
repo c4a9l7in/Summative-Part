@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SelectionWindow
+comment0.text=\n\ SelectionWindow\n\ \n\ @author\ Taylor\ Born\n\ @version\ March\ 2013\ -\ April\ 2013\n
+comment1.params=prompt\ list\ i
+comment1.target=SelectionWindow(java.lang.String,\ java.util.ArrayList,\ int)
+comment1.text=\n\ New\ SelectionWindow.\n\ @param\ prompt\ What\ title\ is\ to\ be\ displayed\ for\ this\ Window.\n
+comment2.params=prompt\ list
+comment2.target=SelectionWindow(java.lang.String,\ java.util.ArrayList)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act.\n
+comment4.params=
+comment4.target=java.lang.Object\ getResult()
+comment4.text=\n\ Action\ listener\ for\ this\ SelectionWindow.\n\ @return\ The\ selection\ from\ the\ DropDownList.\n
+comment5.params=i
+comment5.target=void\ toggleShow(int)
+comment6.params=
+comment6.target=void\ initializeOpen()
+comment6.text=\n\ When\ open,\ reset\ result.\n
+numComments=7

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ImageHolder
+comment0.text=\n\ ImageHolder\n\ \n\ @author\ Taylor\ Born\n\ @version\ December\ 2013\ -\ March\ 2014\n
+comment1.params=image
+comment1.target=ImageHolder(greenfoot.GreenfootImage)
+numComments=2
